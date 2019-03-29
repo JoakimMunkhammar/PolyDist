@@ -1,7 +1,6 @@
+polydfit returns non-normalized polynomial coefficients for polynomial density distribution approximation for the data set in vector x.  (The function is similar to e.g. weib for Weibull parameter fit # in Scipy) 
 
-The function is based on a method of moments approach for generating 
-polynomial probability density distribution approximations, which should
-be referenced as:
+The function is based on a method of moments approach for generating  polynomial probability density distribution approximations, which should be referenced as:
 
 [1] Munkhammar J, Mattsson L, Rydén J, (2017), Polynomial probability 
 distribution estimation using the method of moments. PLoS ONE 
