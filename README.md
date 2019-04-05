@@ -8,6 +8,6 @@ The function is based on a method of moments approach for generating  polynomial
 distribution estimation using the method of moments. PLoS ONE 
 12(4): e0174573. doi:10.1371/journal.pone.0174573
 
-Written by Dr. Joakim Munkhammar, PhD, Uppsala University.
-Date: 2019/03/29
+Written by Dr. Joakim Munkhammar, PhD, and Mahmoud Shepero, Uppsala University.
+Date: 2019/04/05
 
